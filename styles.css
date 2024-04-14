@@ -1389,6 +1389,8 @@
   
   .mh-header .navbar-nav li {
     margin: 0 20px;
+    display: flex;
+    align-items: center;
   }
   
   .mh-header .navbar-nav li a {
